@@ -1,0 +1,131 @@
+    1  mkdir Test
+    2  cd Test/
+    3  touch file1
+    4  git add file1 
+    5  git init
+    6  git add file1 
+    7  git commit -m "teting"
+    8  git config --global user.email "kiran@gmail.com"
+    9  git config --global user.name "kiran"
+   10  git remote add origin https://github.com/KiranGoud/Test.git
+   11  git push -u origin master 
+   12  ls
+   13  ls
+   14  git status
+   15  git add file1 
+   16  git commit -m "teting"
+   17  git push -u origin master 
+   18  git push -u origin master 
+   19  touch file2
+   20  git status
+   21  vi file1
+   22  git status
+   23  git add .
+   24  git commit -m "deploy"
+   25  git push
+   26  git branch 
+   27  git checkout -b
+   28  git checkout -b dev 
+   29  git checkout master
+   30  git checkout dev
+   31  git add .
+   32  git commit -m " testing "
+   33  git push 
+   34  git push --set-upstream origin dev
+   35  git branch 
+   36  vi file2
+   37  cat file2
+   38  git add file2
+   39  git commit -m " hii "
+   40  git push 
+   41  git --help
+   42  git iniy
+   43  git init
+   44  exit
+   45  git status
+   46  cd Documents/
+   47  mkdir Learning2
+   48  cd Learning2/
+   49  git init
+   50  ls -la
+   51  touch test
+   52  ls
+   53  ls -la
+   54  git add test
+   55  git commit -m "first commit"
+   56  git remote add origin https://github.com/KiranGoud/Learning2.git
+   57  git push -u origin master
+   58  git push -u origin master
+   59  cd ..
+   60  cd ../Downloads/
+   61  mkdir test
+   62  cd test
+   63  ls-la
+   64  ls -la
+   65  git clone 
+   66  Welcome@Welcome-PC MINGW64 ~/Downloads/test
+   67  $ ls -la
+   68  git clone https://github.com/KiranGoud/Learning2.git
+   69  ls
+   70  cd Learning2/
+   71  ls
+   72  ls -la
+   73  touch test2
+   74  git add .
+   75  git commit -m "hhh"
+   76  git push
+   77  exit
+   78  ls
+   79  cd Documents/Learning2/
+   80  git checkout master
+   81  l
+   82  git status
+   83  touch test
+   84  git status
+   85  ls
+   86* 
+   87  git status
+   88  git status
+   89  ls
+   90  vi test
+   91  git status
+   92  ssh-keygen -t rsa
+   93  cat /c/Users/Welcome/.ssh/id_rsa.pub 
+   94  git remote -v
+   95  git remote -v
+   96  git remote -v
+   97  git remote set-url git@github.com:KiranGoud/Learning2.git
+   98  git remote set-url origin git@github.com:KiranGoud/Learning2.git
+   99  git remote -v
+  100  vi test
+  101  git status
+  102  git add .
+  103  git commit -m "ff"
+  104  git push
+  105  cat /c/Users/Welcome/.ssh/id_rsa.pub 
+  106  git push
+  107  git pull
+  108  git push
+  109  git checkout --orphan empty
+  110  git status
+  111  ls
+  112  git status
+  113  git rm -rf .
+  114  git commit --allow-empty -m "emprty branch creation"
+  115  git push origin empty
+  116  ls
+  117  git checkout master
+  118  ls
+  119  git checkout empty
+  120  ls
+  121  ls
+  122  git checkout master
+  123  ls
+  124  ls'
+  125  ls
+  126  git checkout empty
+  127  ls
+  128  git checkout qa
+  129  ls
+  130  history
+  131  history >> kiran.txt
